@@ -75,8 +75,8 @@ mean_median_diff <- mean_attendees - median_attendees
 # working with distibutions, feel free to ask your TA for clarification)
 
 
-Reflection: the diffrenece between the two variables is minimal. this goes to show that the
-data is spread evenly regarding the quantity of the attendees at a protest.
+#Reflection: the diffrenece between the two variables is minimal. this goes to show that the
+#data is spread evenly regarding the quantity of the attendees at a protest.
 
 
 # To further assess the distribution of values, create a boxplot of the number
@@ -155,9 +155,9 @@ print(prop_in_wa)
 
 # Why or why not?
 
-Reflection ans: it really doesn't, there are a lot of protests that happen yearly in urban cities.
-A lot of these are social issues that we see through mass media, and the outreach of such news
-influences the masses to take action through protests.
+# Reflection ans: it really doesn't, there are a lot of protests that happen yearly in urban cities.
+# A lot of these are social issues that we see through mass media, and the outreach of such news
+# influences the masses to take action through protests.
 
 
 # Write a function `count_in_location()` that accepts (as a parameter)
